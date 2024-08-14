@@ -20,7 +20,7 @@ class Luiz:
         return f"👋 Hi, I'm {self.name}, a {self.title}. My goal is to uncover the hidden stories in biological data."
 
     def what_i_do(self):
-        return ("🔬 I work with advanced tools like deep learning and genomics to solve biological puzzles, "
+        return ("🔬 I work with deep learning and genomics tools to solve biological puzzles, "
                 "such as predicting how cancer drugs will work and understanding bee genetics.")
 
     def how_to_reach_me(self):
