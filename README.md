@@ -13,7 +13,7 @@
 class Luiz:
     def __init__(self):
         self.name = "Luiz Felipe Piochi"
-        self.title = "Deep Learning and Bioinformatics Specialist"
+        self.title = "Deep Learning and Bioinformatics Specialist, PhD Student in Computer Science @ Inria"
 
     def introduction(self):
         return f"👋 Hi, I'm {self.name}, a {self.title}. My goal is to uncover the hidden stories in data."
