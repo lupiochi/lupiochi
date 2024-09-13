@@ -1,7 +1,7 @@
 # Hi! I'm Luiz =)
 
 ## 🌍 Let's Connect
-[![Website](https://img.shields.io/badge/-visit_my_website-c89666?style=for-the-badge&logo=html5)](https://www.lupiochi.github.io/)
+[![Website](https://img.shields.io/badge/-visit_my_website-c89666?style=for-the-badge&logo=html5)](lupiochi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-piochi/)
 [![ResearchGate](https://img.shields.io/badge/-Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&&logoColor=black)](https://www.researchgate.net/profile/Luiz-Piochi)
 [![Google Scholar](https://img.shields.io/badge/-Scholar-7C8483?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=WYLujtYAAAAJ)
