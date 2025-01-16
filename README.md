@@ -8,26 +8,28 @@
 [![Email](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:luizpiochi@outlook.com)
 </p>
 
-I’m a first year PhD student in Computer Science at Inria. My goal is to use AI to uncover the hidden stories in biological data. My research revolves around **deep learning for de novo protein design**. Please checkout my [personal website](https://lupiochi.me/) for more information.
+I am a first-year PhD student in Computer Science at Inria. I focus on leveraging AI to uncover patterns in biological data, with a special interest in deep learning for de novo protein design. Visit my personal website (https://lupiochi.me/) for more information.
+
 
 ---
 
+
 ### Languages 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
- <br />
- 
+<img align="left" alt="Python" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
+<img align="left" alt="R" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg"/>
+<img align="left" alt="SQL" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Bash" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
+<br />
+
 ### Data science frameworks 
-<img align="left" alt="Sklearn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg"/>
- <br />
+<img align="left" alt="Sklearn" width="30px" style="pointer-events:none; padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img align="left" alt="Tensorflow" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="Pytorch" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg"/>
+<br />
 
 ### Tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="snakemake" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4"/>
+<img align="left" alt="Git" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
+<img align="left" alt="Docker" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
+<img align="left" alt="vscode" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="vscode" width="30px" style="pointer-events:none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
+<img align="left" alt="snakemake" width="30px" style="pointer-events:none; padding-right:10px;" src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4"/>
