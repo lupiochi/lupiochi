@@ -30,4 +30,4 @@ I’m a first year PhD student in Computer Science at Inria. My goal is to use A
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="rstudio" width="30px" style="padding-right:10px;" src="https://www.comparasoftware.com/wp-content/uploads/2018/07/logorstudio.png"/>
+<img align="left" alt="snakemake" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4"/>
