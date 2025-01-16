@@ -10,7 +10,7 @@
 
 I’m a first year PhD student in Computer Science at Inria. My goal is to use AI to uncover the hidden stories in biological data. My research revolves around **deep learning for de novo protein design**. Please checkout my [personal website](https://lupiochi.me/) for more information.
 
---
+---
 
 ### Languages 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
