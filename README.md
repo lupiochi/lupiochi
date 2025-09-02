@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:luizpiochi@outlook.com)
 </p>
 
-I am a first-year PhD student in Computer Science at Inria. I focus on leveraging AI to uncover patterns in biological data, with a special interest in deep learning for de novo protein design. Visit my personal website (https://lupiochi.me/) for more information.
+I am a second-year PhD student in Computer Science at Inria. I focus on leveraging AI to uncover patterns in biological data, with a special interest in deep learning for de novo protein design. Visit my personal website (https://lupiochi.me/) for more information.
 
 
 ---
