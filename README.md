@@ -1,6 +1,12 @@
-# Hi! I'm Luiz =)
+<div id="header" align="center">
+  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357.gif" width="200"/>
+</div>
 
-## 🌍 Let's Connect
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lupiochi)
+
+---
+
+### 👋 Hi there, I'm Luiz =) :
 [![Website](https://img.shields.io/badge/-visit_my_website-c89666?style=for-the-badge&logo=html5)](https://lupiochi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-piochi/)
 [![ResearchGate](https://img.shields.io/badge/-Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&&logoColor=black)](https://www.researchgate.net/profile/Luiz-Piochi)
@@ -8,30 +14,57 @@
 [![Email](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:luizpiochi@outlook.com)
 </p>
 
-I am a second-year PhD student in Computer Science at Inria. I focus on leveraging AI to uncover patterns in biological data, with a special interest in deep learning for de novo protein design. Visit my personal website (https://lupiochi.me/) for more information.
-
+- 📍 Based in France.
+- 🔭 I’m currently a second-year PhD candidate in Computer Science at [INRIA](https://www.inria.fr/en).
+- 🤖 I’ve been working with AI and bioinformatics for the last 3 years.
+- 🎯 In tech, I'm interested on protein design, multi-omics, and AI ethics and governance.
+- ⚡ Outside tech, I am interested in bodybuilding, fishing and language learning.
+</p>
 
 ---
+### 🛠️ Languages and Tools :
 
+**Programming**
 
-### Languages 
-<img align="left" alt="Python" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
-<img align="left" alt="R" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
+![](https://img.shields.io/badge/Python-advanced-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/R-intermediate-informational?style=flat&logo=r&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/SQL-intermediate-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/JavaScript-basic-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+
+**Libraries / Frameworks**
+
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/scikit--learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/numpy-informational?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/HuggingFace-informational?style=flat&logo=huggingface&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=6aa6f8)
+
+**Software Engineering**
+
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Snakemake-informational?style=flat&logo=snakemake&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/CI%2FCD-informational?style=flat&logo=githubactions&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/MLflow%2FW%26B-tracking-informational?style=flat&logo=weightsandbiases&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+
+**Bioinformatics**
+
+![](https://img.shields.io/badge/Protein_Design-informational?style=flat&logo=googlescholar&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/scRNA--seq-informational?style=flat&logo=googlescholar&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Metagenomics-informational?style=flat&logo=googlescholar&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Genomics-informational?style=flat&logo=googlescholar&logoColor=white&color=6aa6f8)
+
+**Human Languages**
+
+![](https://img.shields.io/badge/Portuguese-Native-informational?style=flat&logo=google-translate&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/English-C2-informational?style=flat&logo=google-translate&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Spanish-C1-informational?style=flat&logo=google-translate&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/French-A2-informational?style=flat&logo=google-translate&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/German-A1-informational?style=flat&logo=google-translate&logoColor=white&color=6aa6f8)
+
 <br />
-
-### Data Science Frameworks 
-<img align="left" alt="Sklearn" width="30px" style="pointer-events: none; padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img align="left" alt="Tensorflow" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="Pytorch" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg"/>
-<br />
-
-### Tools
-<img align="left" alt="Git" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" />
-<img align="left" alt="Docker" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Jupyter" width="30px" style="pointer-events: none; padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="Snakemake" width="30px" style="pointer-events: none; padding-right:10px;" src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4"/>
-<br />
-
